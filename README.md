@@ -1,2 +1,2 @@
-# uclusion_customer_issues
+# uclusion_customer
 Public repo for early customers to create issues.
