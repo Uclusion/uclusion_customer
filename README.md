@@ -1,8 +1,8 @@
 # Why Uclusion is free forever for open source collaborators
 
-As you can see from [our blog](https://medium.com/uclusion) Uclusion uses a lot of open source software. We have not had much time to make contributions while boot strapping our startup. So the free forever policy is our way of giving back. However many times charitable Silicon Valley founders are accused of giving only what they think others need. I definitely don't want to waste the precious time of open source developers so I just now Googled "open source asynchronous organization".
+As you can see from [our blog](https://medium.com/uclusion) Uclusion uses a lot of open source software. We have not had much time to make contributions while boot strapping our startup. So the free forever policy is our way of giving back. Unfortunately many times charitable Silicon Valley founders are accused of giving only what they think others need. I definitely don't want to waste the precious time of open source developers so I Googled "open source asynchronous organization".
 
-The first hit is [Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making) written by Bertrand Delacretaz Apache Software Foundation Member and Director, Principal Scientist, Adobe Digital Experience group. Seems reputable enough and although both of Uclusion's founders are from Adobe, I've never come in contact with Bertrand or this article before searching just now.
+The first hit is [Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making) written by Bertrand Delacretaz Apache Software Foundation Member and Director, Principal Scientist, Adobe Digital Experience group. Seems reputable enough and although both of Uclusion's founders are from Adobe, I've never come in contact with Bertrand or this article before.
 
 I wish I had though because Bertrand lays out the principles on which Uclusion was built in a way that I've struggled to:
 
