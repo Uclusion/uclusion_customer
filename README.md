@@ -1,6 +1,6 @@
 # Why Uclusion is free forever for open source collaborators
 
-[Uclusion](https://medium.com/uclusion) uses a lot of open source software and free forever is our way of giving back. The first hit "open source asynchronous organization" is [Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making) written by Bertrand Delacretaz Apache Software Foundation Member and Director. He has three requirements for good open source collaboration:
+[Uclusion](https://medium.com/uclusion) uses a lot of open source software and free forever is our way of giving back. The first hit for "open source asynchronous organization" is [Asynchronous decision-making: Helping remote teams succeed](https://opensource.com/article/17/12/asynchronous-decision-making) written by Bertrand Delacretaz Apache Software Foundation Member and Director. He has three requirements for good open source collaboration:
 
 ## Central asynchronous communications channel
 
